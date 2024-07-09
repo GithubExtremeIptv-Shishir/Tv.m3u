@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1 ,Atn news 360p
+http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Btv palki 720p
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Btv world palki 360p
+http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" ,BTV Sangsad
+http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" , BTV CTG
+http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Banglavision palki 360p
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+#EXTINF:-1 ,Bijoy tv palki 360p
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+#EXTINF:-1 ,Channel i palki 360p
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+#EXTINF:-1 ,Duronto 360p palki 
+http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+#EXTINF:-1 ,Ekattor 360p palki
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Somoy tv
+http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
+#EXTINF:-1 ,Deepto 360p palki
+http://cdn01.palki.tv:80/live/DeeptoTV-M/index.m3u8
+http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8
+#EXTINF:-1 ,Ekhon tv 360p 
+http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8 
+#EXTINF:-1 ,Independent 360p palki 
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+#EXTINF:-1 ,Independent 360p palki 
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+#EXTINF:-1 ,Green tv 360p (palki)
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
+#EXTINF:-1 ,Jamuna 360p (palki)
+http://cdn01.palki.tv:80/live/JamunaTV-M/index.m3u8
+#EXTINF:-1 ,Maasranga 360p ( palki)
+http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
+#EXTINF:-1 ,Mohona tv 360p (palki)
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+#EXTINF:-1 ,Maasranga 720p
+http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
+#EXTINF:-1 ,Nexus TV 360p (palki)
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+#EXTINF:-1 ,Ntv 360p (palki)
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
+#EXTINF:-1 ,News 24 360p (palki)
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+#EXTINF:-1 tvg-logo="" ,SATV
+http://cdn01.palki.tv:80/live/SATV-M/index.m3u8
+#EXTINF:-1 ,Ekattor 360p palki
+http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" ,Boishakhi 
+http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" ,Gaan Bangla 
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" ,Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+http://cdn01.palki.tv/live/Channel9-M/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" , Global TV
+http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" ,Nexus TV 
+http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Ananda TV.
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Channel 9 
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="" ,T sports
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" ,DBC
+http://cdn01.palki.tv/live/DBC-M/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Channel 24
+http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Bangla tv
+http://cdn01.palki.tv/live/BanglaTV-M/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" ,Tbn 24
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Madani
+http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Ekushey TV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
